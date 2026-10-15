@@ -1,5 +1,12 @@
 # Call of Duty: Modern Warfare 2 (PS3) — Definitive Mod Menu Guide
 
+---
+
+## Join Our Discord
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
+
 **Compiled 2026-10-09. Read-only research: web search + page text, no accounts, no downloads, no posts.**
 
 ---
@@ -172,10 +179,3 @@ Known MW2 SPRX menus: Atlantic (EternalModz, 1.14, source on GitHub), Paradise, 
 4. ~18 menu names from the request list with no public trace (see §2 corrections) — likely login-gated NGU history; needs a live NGU session.
 5. Per-menu download availability for most SPRX menus (login-walled/dead hosts).
 6. Detailed IW4-vs-WaW GSC scripting differences (no authoritative source).
-
----
-
-## Join Our Discord
-
-- **Discord:** unosdopplegange
-- **Discord server:** https://discord.gg/MDcaC5nPuA
