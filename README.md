@@ -175,7 +175,7 @@ Known MW2 SPRX menus: Atlantic (EternalModz, 1.14, source on GitHub), Paradise, 
 
 ---
 
-## Community
+## Join Our Discord
 
 - **Discord:** unosdopplegange
 - **Discord server:** https://discord.gg/MDcaC5nPuA
