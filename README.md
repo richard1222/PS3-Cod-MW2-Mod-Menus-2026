@@ -172,3 +172,10 @@ Known MW2 SPRX menus: Atlantic (EternalModz, 1.14, source on GitHub), Paradise, 
 4. ~18 menu names from the request list with no public trace (see §2 corrections) — likely login-gated NGU history; needs a live NGU session.
 5. Per-menu download availability for most SPRX menus (login-walled/dead hosts).
 6. Detailed IW4-vs-WaW GSC scripting differences (no authoritative source).
+
+---
+
+## Community
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
