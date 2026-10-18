@@ -189,7 +189,7 @@ Known MW2 SPRX menus: Atlantic (EternalModz, 1.14, source on GitHub), Paradise, 
 **Added 2026-10-17.** The ClassicsGG project is running an **open alpha** that puts PS3, Xbox 360, and PC players in the same ranked MW2 (2009) servers, with in-game platform identification, dedicated servers, and anti-hacker protections.
 
 - **How PS3 joins:** a custom DNS change — no mods or jailbreak needed, per reports. Consoles join free; PC players need a paid Discord sub (anti-cheat measure).
-- **How long:** the alpha window reportedly closes around **Oct 21–22, 2026** — after that, this section is history.
+- **How long:** the alpha ends **October 21, 2026** — after that, this section is history.
 - **⚠️ Title update unknown:** it is **not established which title update the crossplay servers expect (1.11 vs 1.14)**. If you join, check your installed TU first (XMB → Game → Game Data Utility) and note which one worked — that answer is still open.
-- **DNS varies by guide:** reported addresses differ (136.55.43.79 vs 136.55.254.47 / 1.1.1.1) — follow a current setup guide rather than treating one address as gospel: [allthings.how setup guide](https://allthings.how/how-to-play-modern-warfare-2-cross-platform-in-the-classics-open-alpha/) · [NextGenUpdate article](https://nextgenupdate.com/articles/376/modern-warfare-2-2009-crossplay-beta-brings-ps3-xbox-360-and-pc-together).
+- **PS3 DNS (confirmed):** set both primary and secondary DNS to **136.55.43.79**, launch MW2, search for a game. Confirmed by [TheGamer](https://www.thegamer.com/call-of-duty-modern-warfare-2-cross-platform-open-alpha/) (2026-10-16) and [allthings.how](https://allthings.how/how-to-play-modern-warfare-2-cross-platform-in-the-classics-open-alpha/) (updated 2026-10-17).
 - **Menu/mod compatibility:** not established — don't assume your 1.11 or 1.14 menus/mods work in these lobbies.
